@@ -1,5 +1,6 @@
-# TalkHub
- A message board website that allows users to discuss topics of interest and share ideas and thoughts with one another.
+<p align="center"><img src="img/logo.png" width="250"></p>
+
+ TalkHub is a message board website that allows users to discuss topics of interest and share ideas and thoughts with one another.
  TalkHub uses Apache as its web server, PHP as its server-side scripting language, and MySQL as its backend database.
 
 ## The Database
